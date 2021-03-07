@@ -29,4 +29,4 @@ I'm an enthusiastic and driven self-taught Full stack developer 😸 My curiosit
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker"></code>
 
 [![🦉 Rick's github stats](https://github-readme-stats.vercel.app/api?username=llovvoll&show_icons=true&hide_border=true&hide=issues)](https://github.com/llovvoll)
-[![🦉 Rick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llovvoll&layout=compact)](https://github.com/llovvoll)
+[![🦉 Rick's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llovvoll&layout=compact&hide_border=true)](https://github.com/llovvoll)
