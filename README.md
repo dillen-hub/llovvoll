@@ -8,7 +8,7 @@ I'm an enthusiastic and driven self-taught Full stack developer 😸 My curiosit
 
 ### Talking about Personal Stuffs:
 
-- 🧑🏻‍💻 I'm currently working at BPO company as a full-stack developer
+- 🧑🏻‍💻 I'm currently working at IT contractor as a full-stack developer
 - 🌱 I’m currently learning C#, ASP.NET Core and of course JS improvements
 - ✨ Interested in full stack
 - 💁🏻‍♂️ Focus on writing clean, elegant, efficient code
