@@ -5,7 +5,7 @@
     height="30"
   />
   <img
-    src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif"
+    src="https://cultofthepartyparrot.com/flags/hd/taiwanparrot.gif"
     width="30"
     height="30"
   />
@@ -15,7 +15,7 @@
     height="30"
   />
   <img
-    src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif"
+    src="https://cultofthepartyparrot.com/parrots/hd/pokeparrot.gif"
     width="30"
     height="30"
   />
